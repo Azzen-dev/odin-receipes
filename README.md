@@ -1,4 +1,4 @@
-# odin-receipes
+# odin-recipes
 
 ## This current repo is meant to demonstrate the HTML skills I have learnt.
 
@@ -11,3 +11,5 @@ The skills I have learnt are:
 -Commit Messages
 
 I want to apply these skills that I have developed in a project!
+
+Don't mind the misspelling please! D:
